@@ -7,13 +7,17 @@ Software
 1. Finite-element (FE) analysis of carbon fiber composite structures. 
  
 Software: ANSYS version 17.1
+
 File name: ????
+
 FE analyses of carbon fiber composite structures illustrated in Section 2.1? of the paper. 
 
 2. Optimization using genetic algorithm (GA)
  
 Software: Matlab 2018a? version ?
+
 File name: ????
+
 Optimization using deep learning of fiber arrangement in composites with curved carbon fibers, which is illustrated in Section 3 of the paper. 
 
 Abstract of the paper
